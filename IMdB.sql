@@ -1,4 +1,5 @@
 -- IMDB database design
+-- I have also added the IMDB design screenshot
 
 -- Movie table
 CREATE TABLE Movie (
